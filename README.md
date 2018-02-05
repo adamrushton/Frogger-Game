@@ -5,27 +5,30 @@
 
 ### **Description**: A 3D arcade style game, like the original Frogger. Using the keyboard to guide a family of frogs one by one across a busy road and then across floating tyres. Lots of additional features such as high scores (saved and stored in a file) and key bindings (saved and stored in a file).**
 
-### **Programming techniques used:**
+### **Programming techniques used/Notes:**
 
-Functions and Methods with different return types
+- Functions and Methods with different return types
+- Classes
+- Structures
+- Enumerated Types
+- Arrays (1D and 2D)
+- Vectors
+- Ternary Operators
+- Switch Statements
+- Collision Detection:  Axis Aligned Bounding Boxes, Sphere to Box
+- Sine Wave Frog Leaping
 
-Classes
+### **Extra Features:**
+- Menu System
+- Highscores
+- Custom key bindings
+- Full screen mode
+- FPS toggle
+- Rotating car wheels
+- Game speeds up each level
+- Extra car models
+- Furthest point monitor
 
-Structures
-
-Enumerated Types
-
-Arrays (1D and 2D)
-
-Vectors
-
-Ternary Operators
-
-Switch Statements
-
-Collision Detection:  Axis Aligned Bounding Boxes, Sphere to Box
-
-Sine Wave Frog Leaping
 
 ### **Screenshots:**
 
