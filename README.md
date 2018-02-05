@@ -1,11 +1,11 @@
 # Frogger-Game
-Guide a family of frogs safely to the other side
+### **Guide a family of frogs safely to the other side**
 
-Languages: C++ using TL Engine (The University’s game engine).
+### **Languages:** C++ using TL Engine (The University’s game engine).
 
 Description: A 3D arcade style game, like the original Frogger. Using the keyboard to guide a family of frogs one by one across a busy road and then across floating tyres. Lots of additional features such as high scores (saved and stored in a file) and key bindings (saved and stored in a file).
 
-Programming techniques used:
+### **Programming techniques used:**
 
 Functions and Methods with different return types
 
@@ -27,7 +27,7 @@ Collision Detection:  Axis Aligned Bounding Boxes, Sphere to Box
 
 Sine Wave Frog Leaping
 
-Screenshots:
+### **Screenshots:**
 
 ![launchstage1](https://user-images.githubusercontent.com/13036791/35815786-3bbf5980-0a91-11e8-925d-008dd9903e85.png)
 
