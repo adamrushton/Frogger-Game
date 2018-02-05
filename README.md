@@ -25,7 +25,7 @@ Switch Statements
 
 Collision Detection:  Axis Aligned Bounding Boxes, Sphere to Box
 
-Sin Frog Leaping Calculations
+Sine Wave Frog Leaping
 
 Screenshots:
 
