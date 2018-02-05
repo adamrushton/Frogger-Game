@@ -7,7 +7,7 @@ Description: A 3D arcade style game, like the original Frogger. Using the keyboa
 
 Programming techniques used:
 
-Functions and Methods
+Functions and Methods with different return types
 
 Classes
 
@@ -18,6 +18,10 @@ Enumerated Types
 Arrays (1D and 2D)
 
 Vectors
+
+Ternary Operators
+
+Switch Statements
 
 Screenshots:
 
