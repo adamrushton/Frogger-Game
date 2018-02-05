@@ -23,6 +23,10 @@ Ternary Operators
 
 Switch Statements
 
+Collision Detection:  Axis Aligned Bounding Boxes, Sphere to Box
+
+Sin Frog Leaping Calculations
+
 Screenshots:
 
 ![launchstage1](https://user-images.githubusercontent.com/13036791/35815786-3bbf5980-0a91-11e8-925d-008dd9903e85.png)
